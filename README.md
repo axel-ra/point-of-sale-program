@@ -8,6 +8,6 @@ How to use this program?
   3. Input the price of the item. The suggested format is a number with two decimal places, i.e. 10.00, 0.95.
   4. If you desire to add another item, input the integer number 1, and repeat steps 1-3. If you desire to print the receipt, input the integer number 2.
 
-I am happy to receive suggestions, questions or comments at: ax.alvarenga19@gmail.com .
+For any suggestions, questions or comments, I can be reached at: ax.alvarenga19@gmail.com .
 
 Thank you!
